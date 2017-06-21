@@ -87,3 +87,6 @@ If you wish to compile the app, install the following also:
 #### Testnet
 
 To build testnet binaries, rename `package.testnet.json` to `package.json` and follow instructions as above. Make sure the jar is named `iri-testnet.jar`.
+
+
+#### Light Wallet Setup
